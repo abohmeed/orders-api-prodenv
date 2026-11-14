@@ -1,0 +1,10 @@
+{
+  "prevent_self_review": true,
+  "reviewers": [
+    { "type": "User", "id": 304622 }
+  ],
+  "deployment_branch_policy": {
+    "protected_branches": true,
+    "custom_branch_policies": false
+  }
+}
